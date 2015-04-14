@@ -1,0 +1,13 @@
+C:\Users\Khang\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\visual\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\visual\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmdangnhap.resources
+C:\visual\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Main.resources
+C:\visual\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\visual\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\visual\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\visual\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\visual\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\visual\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\visual\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\visual\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\visual\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.sanpham.resources
